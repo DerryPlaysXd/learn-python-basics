@@ -14,9 +14,9 @@ git clone https://github.com/DerryPlaysXd/learn-python-basics.git
 
 If you are a beginner start simply by installing Python!
 
-Operating system | Windows | Mac(since the pre-shipped Python doesn't work with VSCode) | Debian(Ubuntu, Pop OS) | Arch (Manjaro) |
---- | --- | --- | --- |--- |--- |--- |--- |--- |--- |--- |---
-Install | https://www.python.org/downloads/ | https://www.python.org/downloads/mac-osx/ | sudo apt install python3 | sudo pacman -S python3 |
+| OS           | Windows                          | MacOS                            | Debian (Ubuntu, POP OS...)   | Arch (Manjaro)             |
+|--------------|----------------------------------|----------------------------------|------------------------------|----------------------------|
+| Installation | www.python.org/downloads/windows | www.python.org/downloads/mac-osx | sudo apt install python3 git | sudo pacman -S python3 git |
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
