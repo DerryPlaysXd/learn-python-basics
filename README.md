@@ -9,6 +9,8 @@ You can start by cloning the repository into your directory using in either your
 ```bash
 git clone https://github.com/DerryPlaysXd/learn-python-basics.git
 ```
+### Alternative
+You can download the zip directly.
 
 ## Usage
 
