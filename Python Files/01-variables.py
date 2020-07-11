@@ -18,7 +18,6 @@ resultVar = aVar + bVar
 # Once again we can print the result out 3+2 = 5, so the output will be 5
 print(resultVar)
 
-
 """
 This is the end of the course! Move on to another one!
 """
