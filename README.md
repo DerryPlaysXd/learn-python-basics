@@ -1,5 +1,5 @@
 # Learn Python Basics by DerryPlaysXd
-### For more detailed guide visit https://www.computerra.xyz/learn-python-project/
+### For more detailed guide visit https://www.computerra.xyz/learn-python/
 
 Learn Python Basics is a small project to help the beginners kickstart their Python journey!
 
