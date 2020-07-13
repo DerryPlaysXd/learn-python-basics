@@ -17,12 +17,12 @@ You can download the zip directly.
 
 If you are a beginner start simply by installing Python!
 
-|             OS             |                                               Download                                              |
-|:--------------------------:|:---------------------------------------------------------------------------------------------------:|
-|           Windows          | www.python.org/downloads/windows or install with [chocolatey](chocolatey.org): choco install python |
-|            MacOS           |                                         brew install python                                         |
-| Debian (Ubuntu, POP OS...) |                                       sudo apt install python3                                      |
-|       Arch (Manjaro)       |                                        sudo pacman -S python3                                       |
+|             OS             |                                               Download                                                          |
+|:--------------------------:|:---------------------------------------------------------------------------------------------------------------:|
+|           Windows          | www.python.org/downloads/windows or install with [chocolatey](https://www.chocolatey.org): choco install python |
+|            MacOS           |                                         brew install python                                                     |
+| Debian (Ubuntu, POP OS...) |                                       sudo apt install python3                                                  |
+|       Arch (Manjaro)       |                                        sudo pacman -S python3                                                   |
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
