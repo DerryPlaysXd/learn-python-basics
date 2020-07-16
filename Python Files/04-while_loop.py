@@ -1,11 +1,11 @@
 """
 Welcome to the fourth course of the Learn-Python-Basics project!
 
-Here you will learn how to create and use while loop!
+Here you will learn how to create and use the while loop!
 """
 
-# First we need to declare a variable for a while loop, which defines amount of repeating a code below.
-count = 0
+# First we need to declare a variable for a while loop, which defines the number of circles.
+countVar = 0
 
 # This code is a start of while loop. The template is "while STATEMENT:". While the "STATEMENT" is equal to "True", code below is repeating.
 while count < 5:
